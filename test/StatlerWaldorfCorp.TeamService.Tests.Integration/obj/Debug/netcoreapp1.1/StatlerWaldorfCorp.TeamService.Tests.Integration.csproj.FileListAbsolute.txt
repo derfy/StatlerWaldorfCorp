@@ -1,0 +1,14 @@
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.deps.json
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.runtimeconfig.json
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.runtimeconfig.dev.json
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.AssemblyInfo.cs
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.csprojResolveAssemblyReference.cache
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.pdb
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.pdb
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\test\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.Tests.Integration.pdb
