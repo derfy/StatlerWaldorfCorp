@@ -1,0 +1,9 @@
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.deps.json
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.runtimeconfig.json
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.runtimeconfig.dev.json
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.csprojResolveAssemblyReference.cache
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\bin\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.pdb
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.dll
+C:\Users\derfy\Documents\GitHub\StatlerWaldorfCorp\src\StatlerWaldorfCorp.TeamService\obj\Debug\netcoreapp1.1\StatlerWaldorfCorp.TeamService.pdb

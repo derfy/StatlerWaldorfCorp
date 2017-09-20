@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DEA211E6-56B9-4964-AC0F-07D4A44C3779}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{35BC3E11-62DA-41A6-AC40-4A1442011BC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatlerWaldorfCorp.TeamService", "src\StatlerWaldorfCorp.TeamService\StatlerWaldorfCorp.TeamService.csproj", "{F4A50044-07DB-423F-AD9D-58909DB6670A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatlerWaldorfCorp.TeamService.Tests", "test\StatlerWaldorfCorp.TeamService.Tests\StatlerWaldorfCorp.TeamService.Tests.csproj", "{63853B16-DB5C-4BB4-B1F2-1129C30F369A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A50044-07DB-423F-AD9D-58909DB6670A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A50044-07DB-423F-AD9D-58909DB6670A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A50044-07DB-423F-AD9D-58909DB6670A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A50044-07DB-423F-AD9D-58909DB6670A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63853B16-DB5C-4BB4-B1F2-1129C30F369A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63853B16-DB5C-4BB4-B1F2-1129C30F369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63853B16-DB5C-4BB4-B1F2-1129C30F369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63853B16-DB5C-4BB4-B1F2-1129C30F369A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
