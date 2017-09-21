@@ -1,0 +1,4 @@
+
+*.pdb
+src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.deps.json
+*.pdb
